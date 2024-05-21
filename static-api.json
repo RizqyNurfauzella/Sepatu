@@ -1,0 +1,12 @@
+[
+    {"merk": "Nike", "jenisSepatu": "Air Force", "imageId": "nike"},
+    {"merk": "Adidas", "jenisSepatu": "CAMPUS 00S", "imageId": "adidas"},
+    {"merk": "New Balance", "jenisSepatu": "550", "imageId": "newbalance"},
+    {"merk": "Converse", "jenisSepatu": "Chuck 70", "imageId": "converse"},
+    {"merk": "Vans", "jenisSepatu": "Old Skool", "imageId": "vans"},
+    {"merk": "Puma", "jenisSepatu": "RS-X", "imageId": "puma"},
+    {"merk": "Reebok", "jenisSepatu": "Bb 4000", "imageId": "reebok"},
+    {"merk": "Compass", "jenisSepatu": "RetroGrade Low", "imageId": "compass"},
+    {"merk": "Ventela", "jenisSepatu": "Republic Low", "imageId": "ventela"},
+    {"merk": "AeroStreet", "jenisSepatu": "Riku", "imageId": "aerostreet"}
+]
